@@ -1,2 +1,7 @@
 This is java file
+<<<<<<< HEAD
+Line 1 code
+=======
 first line by Dev A
+>>>>>>> dbe2adf502bf281e7e1bbbef1346694e77a1421d
+second line by Dev B
